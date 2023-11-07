@@ -1,4 +1,4 @@
-<!-- # ⭕ Tic-Tac-Toe -->
+<!-- # ⭕ Tic-Tac-Toe --> MY DISCORD NICKNAME skiter5028
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
